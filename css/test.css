@@ -1,5 +1,6 @@
 body {
   background-color: rgb(235, 235, 235);
+  text-align: center;
 }
 
 h1 {
@@ -28,4 +29,11 @@ p {
 
 h1 span {
   font-weight: 800;
+}
+
+a {
+  font-size: 30px;
+  font-family: "Montserrat Alternates", sans-serif;
+  font-weight: 800;
+  text-decoration-line: none;
 }
